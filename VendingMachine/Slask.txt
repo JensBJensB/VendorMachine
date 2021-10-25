@@ -1,0 +1,18 @@
+﻿// slask - ingen ordning
+//
+//  vendingMachine = new VendingMachine(); {}
+//
+//  private static VendingMachine instance;
+//
+//  public static VendingMachine GetInstance()
+//  {
+//     if (instance == null)
+//     instance = new VendingMachine();
+//     return instance;
+//  }
+
+Frågor:
+Skall all logik ligga i VendingMachine?
+	* jämföra insättning mot denomiations
+	* ShowAll inkl for i loop i Interface eller utanför? Har hört 100% default interface med enbart throw exep
+	
